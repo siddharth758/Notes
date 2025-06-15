@@ -79,6 +79,7 @@ textarea {
   font-size: 16px;
   padding: 10px;
   resize: none;
+  font-family: "Fira Code", monospace;
 }
 textarea:focus {
   outline: none;
